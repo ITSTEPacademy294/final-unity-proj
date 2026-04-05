@@ -147,6 +147,11 @@
 
 ---
 
+## Матеріали
+ - [*City models* - посилання на моделі міста](https://github.com/ITSTEPacademy294/final-unity-proj/tree/main/aditionalMaterials)
+
+---
+
 ## ⚠️ Типові помилки
 - різні назви тегів (Coin vs coin)  
 - не узгодили prefab  
