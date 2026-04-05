@@ -148,7 +148,7 @@
 ---
 
 ## Матеріали
- - [*City models* - посилання на моделі міста](https://github.com/ITSTEPacademy294/final-unity-proj/tree/main/aditionalMaterials)
+ - [*City models* - посилання на моделі міста](https://github.com/ITSTEPacademy294/final-unity-proj/blob/main/aditionalMaterials/CityModels.zip)
 
 ---
 
